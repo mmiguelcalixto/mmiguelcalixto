@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**mozzk/mozzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ I'm a 17 year old IT student based in Brazil.
 
-Here are some ideas to get you started:
+💼 I'm currently an intern in a software development company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My knowledges:
+- JavaScript
+- TypeScript
+- HTML/CSS
+- C#
+- SQL
+
+💡 My goal is to learn a lot about software development!
