@@ -2,7 +2,7 @@
 
 🖥️ I'm a 17 year old IT student based in Brazil.
 
-💼 I'm currently an intern in a software development company.
+💼 I'm currently an intern at a software development company.
 
 ⚡ My skills: 
 <p align="left">
