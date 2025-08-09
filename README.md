@@ -18,5 +18,3 @@
 <p align="left">
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </p>
-
-💡 My goal is to learn a lot about software development!
